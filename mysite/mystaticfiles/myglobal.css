@@ -1,0 +1,8 @@
+body {
+  color: rgb(44, 54, 126);
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
